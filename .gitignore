@@ -1,0 +1,7 @@
+*.DS_Store
+/.DS_Store
+.DS_Store
+dashboard/archivos
+conn.php
+dashboard/prcd/conn.php
+dashboard/prcd/conn2.php
